@@ -49,7 +49,7 @@ h3 {
 .hero {
     text-align: center;
     clear: both;
-    background-image: url(Warrior.jpg);
+    background-image: url("Warrior.JPG");
     padding-top: 107px;
     padding-right: 107px;
     padding-bottom: 107px;
