@@ -1,0 +1,87 @@
+@charset "UTF-8";
+.nav-bar ul li {
+    text-decoration: none;
+    list-style-type: none;
+    display: inline;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.nav-bar ul li:last-child {
+    padding-right: 0px;
+}
+.nav-bar ul {
+    float: right;
+}
+
+}
+.text-left, .img-left {
+    width: 48%;
+    float: left;
+}
+.text-right, .img-right {
+    float: right;
+    width: 48%;
+}
+.text-left, .img-left, .text-right, .img-right {
+    width: 48%;
+    display: inline-block;
+    margin-top: 73px;
+}
+h3 {
+    margin-top: 108px;
+}
+.sec-1, .sec-2, .sec-3 {
+    clear: both;
+}
+.img-left ,.img-right   {
+    text-align: center;
+}
+.img-left img, .img-right img {
+    border-radius: 284px;
+    max-width: 400px;
+}
+.sections {
+    width: 90%;
+    max-width: 1080px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.hero {
+    text-align: center;
+    clear: both;
+    background-image: url(Warrior.jpg);
+    padding-top: 107px;
+    padding-right: 107px;
+    padding-bottom: 107px;
+    padding-left: 107px;
+    background-position: 52% -143%;
+    background-size: cover;
+    color: #FFFFFF;
+}
+.hero a {
+    background-color: #2D89C9;
+    padding-top: 17px;
+    padding-right: 17px;
+    padding-bottom: 17px;
+    padding-left: 17px;
+    border-radius: 29px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-size: large;
+}
+.hero h2 {
+    margin-bottom: 0px;
+    padding-bottom: 18px;
+}
+.footer {
+    background-color: #000000;
+    padding-top: 75px;
+    padding-right: 75px;
+    padding-bottom: 75px;
+    padding-left: 75px;
+    clear: both;
+}
+.footer p {
+    color: #FFFFFF;
+    text-align: center;
+}
